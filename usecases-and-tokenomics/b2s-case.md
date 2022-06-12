@@ -5,8 +5,14 @@ coverY: 0
 
 # B2С Case
 
-Energy8 project supports&#x20;
+Energy8 is **useful for crypto enthusiasts and gamers** around the world.
 
-Each holder of governance token $8DAO will be able to stake their tokens, starting from N amount, into a special pool in order to rent a game node. Price of a game node will depend on the count of rented game nodes. Holders of game nodes will receive a fee from deposits/withdrawals of in-game currency. Reward size for nodes will depend on the number of staked tokens and TPS (Transactions Per Second).
+**For crypto enthusiasts:**
 
-On servers/games that support our technology, players will be able to deposit and withdraw cryptocurrencies. Players can buy and sell goods ​​for in-game currency pegged to the $E8 in-game token.
+* Rent **game node(s)** for $8DAO and have income, which depends on project volume
+* Put $8DAO or $E8 tokens into **staking pool** and have passive income
+* Collect or trade **our NFTs** and have cool assets for games
+* Use our **cross-chain bridges** for most of open networks, like Ethereum, Polygon, BNB Chain, etc... and earn new experience
+* Pass our **testnet campaign** and earn rewards (TBA)
+
+****
