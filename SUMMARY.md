@@ -13,7 +13,10 @@
 
 ## Proof Of Concept
 
-* [Minecraft](proof-of-concept/minecraft.md)
+* [Minecraft](proof-of-concept/minecraft/README.md)
+  * [How to Connect?](proof-of-concept/minecraft/how-to-connect.md)
+  * [How to Deposit Funds?](proof-of-concept/minecraft/how-to-deposit-funds.md)
+  * [How to Withdraw Funds?](proof-of-concept/minecraft/how-to-withdraw-funds.md)
 * [GTA V](proof-of-concept/gta-v.md)
 * [Mobile Games](proof-of-concept/mobile-games.md)
 
