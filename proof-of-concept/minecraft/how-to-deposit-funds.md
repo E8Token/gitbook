@@ -15,6 +15,6 @@ Then **open Energy8 application** and **select "Bridge"**:\
 
 ![](<../../.gitbook/assets/image (2).png>)
 
-After, **approve transaction** and **click "Deposit"**.
+After, **approve the transaction** and **click "Deposit"**.
 
-**Done!** You deposited funds on Energy8 Minecraft server, it's simple.
+**Done!** You deposited funds on the Energy8 Minecraft server, it's simple.

@@ -18,4 +18,4 @@ After, you should **register your account** **or log in**
 
 ![](../../.gitbook/assets/photo\_2022-06-13\_05-34-19.jpg)
 
-**Great!** You are on Minecraft server.
+**Great!** You are on the Minecraft server.

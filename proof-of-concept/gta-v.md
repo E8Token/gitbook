@@ -5,6 +5,6 @@ coverY: 0
 
 # GTA V
 
-Open your own business, collect your unique look, play casino, buy NFT cars and more.
+Open your own business, create your unique look, play casino, buy NFT cars and much more!
 
 To be announced soon...

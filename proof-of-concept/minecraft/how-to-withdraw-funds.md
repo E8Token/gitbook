@@ -10,11 +10,11 @@ To withdraw funds, you should **open Energy8 application** and **select "Bridge"
 
 ![](../../.gitbook/assets/444.png)
 
-Then **click on "Generate Code"** and type **into Minecraft chat** to get the withdrawal code:\
+Then **click on "Generate Code"** and type **into the Minecraft chat** to get a withdrawal code:\
 `/mail read`
 
 ![](../../.gitbook/assets/photo\_2022-06-13\_05-30-35.jpg)
 
-After, **type code** and **confirm transaction**.
+After, **enter the code** and **confirm the transaction**.
 
 **Cool!** You have withdrawn funds from the Energy8 Minecraft server, it's simple.
