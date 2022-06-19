@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/Energy8LabsHeader.png
 coverY: 0
 ---
 
-# Why we chosen Game Node System?
+# Why did we choose a Game Node System?
 
 There are important advantages of using a game node system:
 

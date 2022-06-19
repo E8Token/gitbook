@@ -6,10 +6,10 @@
 
 ## Game nodes
 
-* [What is a Game Node System?](game-nodes/what-is-a-game-node-system.md)
+* [What is a Game Node System?](game-nodes/what-is-game-node-system.md)
 * [Profit for Game Node Holders](game-nodes/profit-for-game-node-holders.md)
-* [Why did we choose a Game Node System?](game-nodes/why-did-we-choose-a-game-node-system.md)
-* [How does it work?](game-nodes/how-does-it-work.md)
+* [Why did we choose a Game Node System?](game-nodes/why-we-chosen-game-node-system.md)
+* [How does it work?](game-nodes/how-it-works.md)
 
 ## Proof Of Concept
 

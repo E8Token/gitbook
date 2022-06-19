@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/Energy8LabsHeader.png
 coverY: 0
 ---
 
-# How it works?
+# How does it work?
 
 **For example, user send withdrawal request from game server.**
 
